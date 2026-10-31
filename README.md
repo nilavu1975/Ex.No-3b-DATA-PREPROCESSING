@@ -70,6 +70,6 @@ x_test = sc_x.transform(x_test)
 print(x_train)
 print(x_test)
 
-## Conclusion
+## RESULT
 Thus, the given dataset was successfully preprocessed by handling missing values, encoding categorical variables, splitting the data into training and testing sets, and performing feature scaling.
 
